@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>rc_car_description</name>
+  <version>0.1.0</version>
+  <description>URDF model and launch files for RC car robot</description>
+  <maintainer email="preyansh@todo.com">Preyansh</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <exec_depend>robot_state_publisher</exec_depend>
+  <exec_depend>joint_state_publisher</exec_depend>
+  <exec_depend>xacro</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

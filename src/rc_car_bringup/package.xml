@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>rc_car_bringup</name>
+  <version>0.1.0</version>
+  <description>Launch files for RC car robot</description>
+  <maintainer email="preyansh@todo.com">Preyansh</maintainer>
+  <license>MIT</license>
+
+  <depend>rclpy</depend>
+  <depend>rc_car_driver</depend>
+  <depend>rc_car_imu</depend>
+  <depend>rc_car_control</depend>
+  <depend>rc_car_description</depend>
+
+  <exec_depend>robot_state_publisher</exec_depend>
+  <exec_depend>teleop_twist_keyboard</exec_depend>
+  <exec_depend>xacro</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

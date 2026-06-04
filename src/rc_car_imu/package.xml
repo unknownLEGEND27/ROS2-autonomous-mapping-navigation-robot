@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>rc_car_imu</name>
+  <version>0.1.0</version>
+  <description>MPU6500/9250 IMU driver node</description>
+  <maintainer email="preyansh@todo.com">Preyansh</maintainer>
+  <license>MIT</license>
+
+  <depend>rclpy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
