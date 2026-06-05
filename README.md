@@ -21,24 +21,6 @@ The robot combines:
 
 The project serves as a foundation for future autonomous navigation, path planning, obstacle avoidance, and outdoor robotic applications.
 
----
-
-## 📸 Project Images
-
-### Robot Platform
-
-![Robot](images/robot.jpg)
-
-### Hardware Setup
-
-![Hardware](images/hardware_setup.jpg)
-
-### Generated Map
-
-![Map](images/mapping_result.png)
-
----
-
 ## 🛠 Hardware Components
 
 | Component        | Model                |
