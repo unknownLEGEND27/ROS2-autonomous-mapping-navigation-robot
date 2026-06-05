@@ -25,7 +25,7 @@ The project serves as a foundation for future autonomous navigation, path planni
 
 | Component        | Model                |
 | ---------------- | -------------------- |
-| Main Controller  | Raspberry Pi 5 (8GB) |
+| Main Controller  | Raspberry Pi 5 (32GB) |
 | Operating System | Ubuntu 24.04         |
 | ROS Version      | ROS 2 Jazzy          |
 | LiDAR            | RPLIDAR C1           |
