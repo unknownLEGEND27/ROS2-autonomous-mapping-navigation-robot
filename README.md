@@ -1,4 +1,4 @@
-# 🚗 Legxy The Sexyy
+# 🚗 Legxy
 
 ### ROS 2 Autonomous Mapping & Navigation Robot
 
